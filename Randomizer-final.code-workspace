@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Randomizer-final",
+			"path": "."
+		},
+		{
+			"name": "index.html",
+			"path": "../three.js-final-version/index.html"
+		}
+	],
+	"settings": {}
+}

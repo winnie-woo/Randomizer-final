@@ -6,3 +6,17 @@ html, body {
     display: block;
   }
   
+.randomizerButton{
+  padding: 20px;
+  background-color:#d4b2ed;
+  }
+ 
+
+row{
+  display: flex;
+}
+
+.colimn{
+  margin: 10px;
+  flex: 50%;
+}
